@@ -18,6 +18,7 @@ public class JenkinsPipelineApplication {
 	}  
 	}  
 	public static void main(String[] args) {
+		System.out.println("GUlam! How are you");
 		SpringApplication.run(JenkinsPipelineApplication.class, args);
 	}
 
